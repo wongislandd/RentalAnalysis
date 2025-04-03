@@ -37,8 +37,8 @@ You can run the script from the command line. There are three main ways to call 
 1. Single Year (Cash Flow Metrics Only)
 ```bash
 python rental_analysis_dynamic.py --year 10
-This command displays the cash flow metrics for Year 10.
 ```
+This command displays the cash flow metrics for Year 10.
 
 2. Single Year with Detailed Output (Verbose Mode)
 ```bash
@@ -50,7 +50,6 @@ This prints a detailed breakdown including mortgage details, amortization summar
 ```bash
 python rental_analysis_dynamic.py --year-range 5 10
 ```
-
 This outputs a table of cash flow metrics for each year from 5 through 10, factoring in the annual rent increase.
 
 ## Note:
