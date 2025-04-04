@@ -1,0 +1,34 @@
+--- Rental Analysis Details for Year 24 ---
+
+Mortgage Details:
+  Monthly Payment (Principal+Interest): $2561.08
+  Monthly Escrow: $593.92
+  Total Monthly Payment: $3155.00
+
+Amortization (Yearly Totals):
+  Annual Interest Paid: $7261.60
+  Annual Principal Paid: $23471.36
+  Cumulative Principal Paid: $332821.19
+  Cumulative Interest Paid: $404769.85
+
+Dynamic Expense Calculations:
+  Fixed Costs (per month): $-3571.67
+  Additional (Occupied): $1802.05
+  Additional (Vacant): $-100.00
+  Monthly When Occupied: $-1769.62
+  Monthly When Vacant: $-3671.67
+  Calculated Base Annual Cost: $-23137.44
+
+Cash Flow Metrics for the Year:
+  Effective Rental Rate: $3394.34
+  Estimated Annual Tax Refund: $10499.92
+  Annual Out-of-Pocket After Tax Refund: $-12637.52
+  Annual Loss After Considering Principal: $10833.84
+
+Assumptions:
+  Vacancy Months per Year: 1.0
+  Annual Depreciation: $14938.18
+  Annual Additional Expenses: $7800.00
+  Tax Rate: 35%
+
+------------------------------------------------------------
