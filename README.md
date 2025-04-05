@@ -6,7 +6,7 @@ This repository contains a Python script that calculates the year-by-year detail
 - **Additional Monthly Cash Flows When Occupied** (based on Rental Rate, Tax Rate, Property Management Fee, and Random Fees)
 - **Additional Monthly Costs When Vacant** (e.g., Utilities)
 
-These values are combined to determine a dynamically computed base annual cost. The script then generates a mortgage amortization schedule and calculates cash flow metrics (including tax benefits and “loss after principal”) for a specified year or range of years. Additionally, it factors in an annual rent increase (which is hardcoded by default).
+These values are combined to determine a dynamically computed base annual cost. The script then generates a mortgage amortization schedule and calculates cash flow metrics (including tax benefits and “loss after principal”) for a specified year or range of years. Additionally, it factors in an annual rent increase (which is hardcoded by default). I'm using this as a tool to calculate the cost per year on renting out my house.
 
 ## Features
 
